@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome To Buy Populations
+### The only place where you can buy populations of the world based on the amount of subatomic particles.
 
-You can use the [editor on GitHub](https://github.com/jbrak/buypopulations/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The general price for most populations is:
+**1 subatomic particle costs 1p**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here are what we currently offer:
+* £553,000,000,000,000,000,000,000,000,000,000,000 to buy population of the planet Earth if 1p = 1 subatomic particle
 
-### Markdown
+* £98,140,000,000,000,000,000,000,000,000,000,000 to buy population of China if 1p = 1 subatomic particle
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* £4,705,400,000,000,000,000,000,000,000,000,000 to buy population of UK if 1p + 1 subatomic particle
 
-```markdown
-Syntax highlighted code block
+* £1,234,800,000,000,000,000,000,000,000,000,000 to buy population of Ecuador if 1p = 1 subatomic particle
 
-# Header 1
-## Header 2
-### Header 3
+* £7,672,000,000,000,000,000,000,000,000,000,000 to buy population of the Philippines if 1p = 1 subatomic particle
 
-- Bulleted
-- List
+* £349,440,000,000,000,000,000,000,000,000 to buy population of Montserrat if 1p = 1 subatomic particle
 
-1. Numbered
-2. List
+* £8,606,000,000,000,000,000,000,000,000,000,000 to buy population of Japan if 1p = 1 subatomic particle
 
-**Bold** and _Italic_ and `Code` text
+* £56,070,000,000,000,000,000,000,000,000 to buy population of the Vatican if 1p = 1 subatomic particle
 
-[Link](url) and ![Image](src)
-```
+* £2,668,960,000,000,000,000,000,000,000,000 to buy population of Liechtenstein if 1p = 1 subatomic particle
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* £10,087,000,000,000,000,000,000,000,000,000,000 to buy population of Russia if 1p = 1 subatomic particle
 
-### Jekyll Themes
+* £2,375,660,000,000,000,000,000,000,000,000 to buy population of San Marino if 1p = 1 subatomic particle
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jbrak/buypopulations/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* £96,600,000,000,000,000,000,000,000,000,000,000 to buy population of India if 1p = 1 subatomic particle
 
-### Support or Contact
+* £2,306,500,000,000,000,000,000,000,000,000,000 to buy population of USA if 1p = 1 subatomic particles
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* £1,914,500,000,000,000,000,000,000,000,000,000 to buy population of Indonesia if 1p = 1 subatomic particle
