@@ -32,3 +32,5 @@ Here are what we currently offer:
 * £2,306,500,000,000,000,000,000,000,000,000,000 to buy population of USA if 1p = 1 subatomic particles
 
 * £1,914,500,000,000,000,000,000,000,000,000,000 to buy population of Indonesia if 1p = 1 subatomic particle
+
+To buy please contact us a purchase@buypopulations.com
