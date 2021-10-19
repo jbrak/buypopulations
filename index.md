@@ -34,3 +34,4 @@ Here are what we currently offer:
 * £1,914,500,000,000,000,000,000,000,000,000,000 to buy population of Indonesia if 1p = 1 subatomic particle
 
 To buy please contact us a purchase@buypopulations.com
+For queries please contact us at query@buypopulations.com
