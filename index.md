@@ -9,7 +9,7 @@ Here are what we currently offer:
 
 * £98,140,000,000,000,000,000,000,000,000,000,000 to buy population of China if 1p = 1 subatomic particle
 
-* £4,705,400,000,000,000,000,000,000,000,000,000 to buy population of UK if 1p + 1 subatomic particle
+* £4,705,400,000,000,000,000,000,000,000,000,000 to buy population of UK if 1p = 1 subatomic particle
 
 * £1,234,800,000,000,000,000,000,000,000,000,000 to buy population of Ecuador if 1p = 1 subatomic particle
 
@@ -32,6 +32,18 @@ Here are what we currently offer:
 * £2,306,500,000,000,000,000,000,000,000,000,000 to buy population of USA if 1p = 1 subatomic particles
 
 * £1,914,500,000,000,000,000,000,000,000,000,000 to buy population of Indonesia if 1p = 1 subatomic particle
+
+* £1,546,300,000,000,000,000,000,000,000,000,000 to buy population of Pakistan if 1p = 1 subatomic particle
+
+* £1,488,200,000,000,000,000,000,000,000,000,000 to buy population of Brazil if 1p = 1 subatomic particle
+
+* £1,442,977,100,000,000,000,000,000,000,000,000 to buy population of Nigeria if 1p = 1 subatomic particle
+
+* £1,152,825,700,000,000,000,000,000,000,000,000 to buy population of Bangladesh if 1p = 1 subatomic particle
+
+* £902,529,270,000,000,000,000,000,000,000,000 to buy population of Mexico if 1p = 1 subatomic particle
+
+* £804,745,120,000,000,000,000,000,000,000,000 to buy population of Ethiopia if 1p = 1 subatomic particle
 
 To buy please contact us a purchase@buypopulations.com
 
