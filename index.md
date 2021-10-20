@@ -35,6 +35,16 @@ Here are what we currently offer:
 
 * £7,163,408,300,000,000,000,000,000,000,000,000 to buy population of Egypt if 1p = 1 subatomic particle
 
+* £6,813,700,500,000,000,000,000,000,000,000,000 to buy population of Vietnam if 1p = subatomic particle
+
+* £6,269,298,200,000,000,000,000,000,000,000,000 to buy population of DR Congo if 1p = 1 subatomic particle
+
+* £5,903,734,700,000,000,000,000,000,000,000,000 to buy population of Turkey if 1p = 1 subatomic particle
+
+* £5,879,506,400,000,000,000,000,000,000,000,000 to buy population of Iran if 1p = 1 subatomic particle
+
+* £5,864,875,900,000,000,000,000,000,000,000,000 to buy population of Germany if 1p = 1 subatomic particle
+
 * £4,705,400,000,000,000,000,000,000,000,000,000 to buy population of UK if 1p = 1 subatomic particle
 
 * £1,234,800,000,000,000,000,000,000,000,000,000 to buy population of Ecuador if 1p = 1 subatomic particle
