@@ -45,6 +45,8 @@ Here are what we currently offer:
 
 * £5,864,875,900,000,000,000,000,000,000,000,000 to buy population of Germany if 1p = 1 subatomic particle
 
+* £4,885,998,500,000,000,000,000,000,000,000,000 to buy population of Thailand if 1p = 1 subatomic particle
+
 * £4,705,400,000,000,000,000,000,000,000,000,000 to buy population of UK if 1p = 1 subatomic particle
 
 * £4,569,145,800,000,000,000,000,000,000,000,000 to buy population of France if 1p = 1 subatomic particle
