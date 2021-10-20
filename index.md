@@ -47,6 +47,28 @@ Here are what we currently offer:
 
 * £4,705,400,000,000,000,000,000,000,000,000,000 to buy population of UK if 1p = 1 subatomic particle
 
+* £4,569,145,800,000,000,000,000,000,000,000,000 to buy population of France if 1p = 1 subatomic particle
+
+* £4,232,327,800,000,000,000,000,000,000,000,000 to buy population of Italy if 1p = 1 subatomic particle
+
+* £4,181,395,300,000,000,000,000,000,000,000,000 to buy population of Tanzania if 1p = 1 subatomic particle
+
+* £4,151,608,300,000,000,000,000,000,000,000,000 to buy population of South Africa if 1p = 1 subatomic particle
+
+* £3,808,686,000,000,000,000,000,000,000,000,000 to buy population of Myanmar if 1p = 1 subatomic particle
+
+* £3,763,990,700,000,000,000,000,000,000,000,000 to buy population of Kenya if 1p = 1 subatomic particle
+
+* £3,588,843,000,000,000,000,000,000,000,000,000 to buy population of South Korea if 1p = 1 subatomic particle
+
+* £3,561,802,400,000,000,000,000,000,000,000,000 to buy population of Colombia if 1p = 1 subatomic particle
+
+* £3,272,834,500,000,000,000,000,000,000,000,000 to buy population of Spain if 1p = 1 subatomic particle
+
+* £3,201,870,500,000,000,000,000,000,000,000,000 to buy population of Uganda if 1p = 1 subatomic particle
+
+* £3,163,704,200,000,000,000,000,000,000,000,000 to buy population of Argentina if 1p = 1 subatomic particle
+
 * £1,234,800,000,000,000,000,000,000,000,000,000 to buy population of Ecuador if 1p = 1 subatomic particle
 
 * £2,668,960,000,000,000,000,000,000,000,000 to buy population of Liechtenstein if 1p = 1 subatomic particle
